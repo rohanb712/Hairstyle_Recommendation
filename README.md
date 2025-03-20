@@ -145,7 +145,7 @@ The face shape classifier was trained on a dataset of diverse facial images with
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Face landmark detection utilizes the face_recognition library
 - Background removal powered by MODNet
